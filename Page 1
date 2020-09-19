@@ -1,0 +1,29 @@
+!DOCTYPE html>
+<html>
+    <head>
+        <title>About Myself</title>
+    </head>
+    <body a link="black" vlink = "black">
+        <center><h1>About Myself</h1></center>
+
+        <!-- Menu goes here -->
+
+        <center>
+         <b>Page1</b>    |  <a href="Page2.html">Page2</a>
+        </center>
+        <h1>Academic Information</h1>
+        <p>Name: <b>Masroor Ahmad</b>
+        
+        <br/>ID: 011202233
+        
+        <br/>School: Annada Govt. High school,Brahmanbaria (batch:2016) | <a href="https://facebook.com/annada.bbaria"> facebook </a>
+
+        <br/>Collage: Armed Police Battalion College,Dhaka (batch:2018) | <a href="https://www.facebook.com/Armed-Police-Battalion-School-collegeUttara-181972995856300">facebook</a>
+        
+        <br/>University: United International University | <a href="http://www.uiu.ac.bd/"> Website </a>
+    </p>
+    <p>I choose CSE because it is problem solving, an essential skill for life. Students study the design, development and
+    </br> analysis of software and hardware used to solve problems in a variety of business, scientific and social contexts.
+</p>
+    </body>
+</html>
