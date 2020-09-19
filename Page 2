@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>About Myself</title>
+    </head>
+    <body a link="black" vlink = "black">
+        <center><h1>About Myself</h1></center>
+
+        <!-- Menu goes here -->
+
+        <center>
+         <a href="Page1.html">Page1</a>    |  <b>Page2</b>
+        </center>
+        <h1>Hobbies</h1>
+        <p> <b>Favorite movies</b>: I have two favorite movies.Those are 3idiots and Chicchore. These movies teach us how to be happy in life, how to manage life and happiness of university life.</p>
+
+        <img src="3_Idiots.html>
+        <img src="chhichhore.html>
+     
+        <p>
+        <b>Favorite games:</b> My favorite games are Pubg and Call of duty.
+        <img src="pubgvscod.html>
+
+        </p>
+       
+    <p>
+       <b>Favorite sport:</b> My favorite sport is cricket. I always love to play cricket.
+       <img src="Shakib-Al-Hasan.html">
+    </p>
+
+     <p>
+         <b>Favorite book:</b> My favorite book is "Zero to one" which is written by Peter Thiel.
+         <img src="Zero.html>
+     </p>
+
+     <p>
+         <b>Place to visit:</b> I would like to visit Bali beach and Bandarban.
+         <img src="Bali beach.html">
+         <img src="bandarban.html">
+     </p>
+
+     <P>
+         <b>Activities:</b> I try to get up during the Fajr prayers every day, but it didn't every day. Even then, whenever I get up, I offer Fajr prayers.
+         <br/> I got busy with other accessories of the day. If there is a class, I do it. If there is not, I do it if there are  homeworks and assignments. Now that the 
+         <br/>pendemic has spread, I have reduced the number of leaving my home. Also watch TV or YouTube in my spare time.
+     </P>
+    </body>
+</html>
